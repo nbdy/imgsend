@@ -4,7 +4,7 @@ send an image from your picamera to an api endpoint every x seconds
 ### how to..
 #### ... install
 ```shell script
-sudo pip3 install https://github.com/smthnspcl/imgsend
+sudo pip3 install git+https://github.com/smthnspcl/imgsend
 ```
 #### ... use from cli
 ```shell script
