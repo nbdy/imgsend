@@ -7,7 +7,7 @@ setup(
     description="send images to an url every x seconds",
     author="Pascal Eberlein",
     author_email="pascal@eberlein.io",
-    url="https://github.com/smthnspcl/imgsend",
+    url="https://github.com/nbdy/imgsend",
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
